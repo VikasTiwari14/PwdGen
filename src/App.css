@@ -1,0 +1,51 @@
+body{
+	background: linear-gradient(45deg, #df8686, transparent);
+	text-align:center;
+	margin:100px;
+	color:white;
+}
+#root{
+	background:#17004e;
+	width:500px;
+	margin:auto;
+	border-radius:10px;
+}
+#writePass{
+	    background: white;
+    width: 310px;
+    height: 33px;
+    margin: auto;
+    color: black;
+	font-size: 25px;
+}
+h1{
+	background:#1e1e1e;
+	padding-top:20px;
+	padding-bottom:22px;
+}
+span{
+	background: white;
+    color: black;
+    padding: 5px 23px;
+    border-radius: 6px;
+    margin: 0px 11px;
+	font-size: 20px;
+}
+input[type='button']{
+	font-size: 22px;
+    width: 30px;
+}
+input[type='checkbox']{
+	height:22px;
+	width:22px;
+}
+#cb{
+	text-align:left;
+	margin-left:141px;
+}
+input[type="submit"]{
+	margin: 20px;
+    font-size: 23px;
+    padding: 10px;
+    border-radius: 10px;
+}
